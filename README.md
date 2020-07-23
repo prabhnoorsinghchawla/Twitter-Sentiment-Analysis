@@ -7,5 +7,5 @@ Load and prepare a collected set of twitter data for analysis
 You will estimate the sentiment associated with individual tweets
 You will estimate the sentiment of a particular term
 
-##Usage
+## Usage
 Open the TwitterSentiment.ipynb and check the notebook out yourself:)
